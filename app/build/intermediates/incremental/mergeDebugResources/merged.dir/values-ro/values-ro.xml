@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Terminat"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Afișați-le pe toate"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Alegeți o aplicaţie"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Interogare de căutare"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Trimiteți la %s"</string>
+    <string name="abonament">Abonament</string>
+    <string name="about">Despre applicație</string>
+    <string name="accessibility_service_description">
+        Aplicația permite să trimite și să citească mesaje scurte (USSD | MMI) "\ n \ n". Funcționează cu operatorul Orange Moldova.
+	</string>
+    <string name="action_allsettings">Setări principale</string>
+    <string name="action_settings">Setări</string>
+    <string name="ambulance">903</string>
+    <string name="ambulance_text">Ambulanță</string>
+    <string name="app_name">Orange Info</string>
+    <string name="autor">Autor - Kevshin Alexei</string>
+    <string name="balance">*133*2#</string>
+    <string name="balance_text">Balanța mea</string>
+    <string name="bonus_activate">5544</string>
+    <string name="bonus_activate_text">Activați bonus</string>
+    <string name="bonus_minutes">*133*3#</string>
+    <string name="bonus_minutes_text">Minute de bonus</string>
+    <string name="button_continue">Continuă</string>
+    <string name="call_even">*100*7#</string>
+    <string name="call_even_text">Suna chiar o lună</string>
+    <string name="change_bonus">*100*2#</string>
+    <string name="change_bonus_text">Schimbă bonus</string>
+    <string name="change_plan">Do you want to change your plan?</string>
+    <string name="change_plan_text">Here you can check how much you are talking about in a month, and if you want to change your package, the application will tell you which one you can choose</string>
+    <string name="credit">*133#</string>
+    <string name="credit_text">Creditul meu</string>
+    <string name="emergency">112</string>
+    <string name="emergency_text">Ajutor de urgență</string>
+    <string name="error_ussd_msg">Erorr, vă rugăm să încercați mai târziu</string>
+    <string name="exit">Ieșirea</string>
+    <string name="expense">*133*2#</string>
+    <string name="expense_text">Cheltuieli</string>
+    <string name="facebook">https://www.facebook.com/AlexeiKevshin</string>
+    <string name="favorite">Număr favorit</string>
+    <string name="favorite_text">Define with whom you are talking so much, and with whom you are need a favorite number</string>
+    <string name="firefighters">901</string>
+    <string name="firefighters_text">Pompieri</string>
+    <string name="gas_service">904</string>
+    <string name="gas_service_text">Servicii gaz</string>
+    <string name="google">https://plus.google.com/100548787368400516164/about</string>
+    <string name="info_minute">*133*1#</string>
+    <string name="info_minute_text">Info minute</string>
+    <string name="internet">*133*3*2#</string>
+    <string name="internet_activation">789</string>
+    <string name="internet_activation_text">Activare internet</string>
+    <string name="internet_options">*100*32#</string>
+    <string name="internet_options_text">Inernet Opțiuni</string>
+    <string name="internet_text">Internet traffic</string>
+    <string name="linked">https://www.linkedin.com/in/alexeikevshin</string>
+    <string name="love_number">*100*6#</string>
+    <string name="love_number_text">Numere iubite</string>
+    <string name="magic_number">*100*5#</string>
+    <string name="magic_number_text">Număr Magic</string>
+    <string name="minutes_options">*100*34#</string>
+    <string name="minutes_options_text">Opțiuni minute</string>
+    <string name="mistake">Orange MD nu este operatorul Dvs. de rețea. \ n Vino la Orange!</string>
+    <string name="more">Următor</string>
+    <string name="my_number">*99#</string>
+    <string name="my_number_text">Numărul meu</string>
+    <string name="ok">Salvează</string>
+    <string name="operator_call">777</string>
+    <string name="operator_call_text">Sună operatorului</string>
+    <string name="operator_name">Denumirea operatorului:</string>
+    <string name="optional_codes">Coduri utile</string>
+    <string name="orange">Orange</string>
+    <string name="police">902</string>
+    <string name="police_text">Poliția</string>
+    <string name="prepay">Prepay</string>
+    <string name="prepay_options">*100*31#</string>
+    <string name="prepay_options_text">Opțiuni Prepay</string>
+    <string name="prepay_points">200</string>
+    <string name="prepay_points_text">Puncte Prepay</string>
+    <string name="rouming">Este în rouming:</string>
+    <string name="rouming_options">*100*9#</string>
+    <string name="rouming_options_text">Activare rouming </string>
+    <string name="send">Trimite</string>
+    <string name="smallwidget">Small Orange info widget</string>
+    <string name="sms_options">*100*33#</string>
+    <string name="sms_options_text">Opțiuni Sms</string>
+    <string name="smsinfo">*133*3*1#</string>
+    <string name="smsinfo_text">Sms info</string>
+    <string name="twitter">https://twitter.com/Kusocek_a</string>
+    <string name="usefulcalls">Numere utile</string>
+    <string name="version">Versiunea aplicației - 1.0</string>
+    <string name="widget">Orange info widget</string>
+</resources>

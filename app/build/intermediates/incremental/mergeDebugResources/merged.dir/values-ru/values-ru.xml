@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string name="abonament">Абонемент</string>
+    <string name="about">О приложении</string>
+    <string name="accessibility_service_description">Это приложение позволяет Вам отправлять короткие сообщения (USSD || MMI ). Работает только с  оператором Orange MD</string>
+    <string name="action_allsettings">Основные настройки</string>
+    <string name="action_settings">Настройки</string>
+    <string name="ambulance">903</string>
+    <string name="ambulance_text">Скорая помощь</string>
+    <string name="app_name">Orange Info</string>
+    <string name="autor">Автор - Кевшни Алексей</string>
+    <string name="balance_text">Мой Баланс</string>
+    <string name="bonus_activate_text">Активация бонуса</string>
+    <string name="bonus_minutes_text">Бонусные минуты</string>
+    <string name="button_continue">Далее</string>
+    <string name="call_even_text">Звони еще месяц</string>
+    <string name="change_bonus_text">Поменяй бонус</string>
+    <string name="change_plan">Хочешь поменять свой пакет?</string>
+    <string name="credit_text">Мой кредит</string>
+    <string name="emergency_text">Экстренный вызов</string>
+    <string name="error_ussd_msg">Ошибка, попробуйте позже</string>
+    <string name="exit">Выход</string>
+    <string name="expense_text">Затраты</string>
+    <string name="favorite">Номер фаворит</string>
+    <string name="firefighters_text">Пожарные</string>
+    <string name="gas_service_text">Служба газа</string>
+    <string name="info_minute_text">Мои минуты</string>
+    <string name="internet_activation_text">Активируй интернет</string>
+    <string name="internet_options_text">Опции интернета</string>
+    <string name="internet_text">Интернет траффик</string>
+    <string name="love_number_text">Любимые номера</string>
+    <string name="magic_number_text">Магический номер</string>
+    <string name="minutes_options_text">Опции по минутам</string>
+    <string name="more">Больше</string>
+    <string name="my_number_text">Мой номер</string>
+    <string name="ok">Сохранить и установить</string>
+    <string name="operator_call_text">Звонок оператору</string>
+    <string name="operator_name">Имя оператора:</string>
+    <string name="optional_codes">Дополнительные коды</string>
+    <string name="police_text">Полиция</string>
+    <string name="prepay_options_text">Опции Prepay</string>
+    <string name="prepay_points_text">Очки Prepay</string>
+    <string name="rouming">В роуминге</string>
+    <string name="rouming_options_text">Активируй роуминг</string>
+    <string name="send">Отправить</string>
+    <string name="smallwidget">Кнопка Orange Info</string>
+    <string name="sms_options_text">Опции SMS</string>
+    <string name="smsinfo_text">Информация SMS</string>
+    <string name="usefulcalls">Полезные номера</string>
+    <string name="version">Версия приложения - 1.0</string>
+    <string name="widget">Orange Info виджет</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ak.orangeinfo"
+    android:versionCode="1"
+    android:versionName="1.0" android:installLocation="auto" >
+	
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="24" 
+        android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"></uses-permission>
+     <supports-screens android:anyDensity="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true"/>
+	 <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Orangeinfo"
+        android:enabled="true">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        	<activity android:name="AbonamentActivity" android:screenOrientation="portrait"></activity>
+        	<activity android:name="PrepayActivity" android:screenOrientation="portrait"></activity>
+        	<receiver android:name="Widget" android:icon="@drawable/ic_launcher" android:label="@string/widget">
+        	    <intent-filter>
+					<action
+ 						android:name="android.appwidget.action.APPWIDGET_UPDATE"> 						  
+					</action>
+					<action android:name="com.ak.orangeinfo.MyCredit" />
+					<action android:name="com.ak.orangeinfo.MinuteInfo" />
+					<action android:name="com.ak.orangeinfo.MyBalance" />
+					<action android:name="com.ak.orangeinfo.InternetTraffic" />
+					<action android:name="com.ak.orangeinfo.MyNumber" />
+				</intent-filter>
+				<meta-data
+ 					android:name="android.appwidget.provider"
+ 					android:resource="@xml/widget_metadata">
+				</meta-data>
+        	</receiver>
+        	<receiver android:name="SmallWidget" android:icon="@drawable/ic_launcher" android:label="@string/smallwidget">
+        	    <intent-filter>
+					<action
+ 						android:name="android.appwidget.action.APPWIDGET_UPDATE"> 						  
+					</action>
+					<action android:name="com.ak.orangeinfo.MyCredit" />
+					<action android:name="com.ak.orangeinfo.MinuteInfo" />
+					<action android:name="com.ak.orangeinfo.MyBalance" />
+					<action android:name="com.ak.orangeinfo.InternetTraffic" />
+					<action android:name="com.ak.orangeinfo.MyNumber" />
+				</intent-filter>
+				<meta-data
+ 					android:name="android.appwidget.provider"
+ 					android:resource="@xml/smallwidget_metadata">
+				</meta-data>
+        	</receiver>
+        	
+        	<service android:name="OrangeService"></service>
+        	<activity android:name="ConfigWidget" android:screenOrientation="portrait">
+        	    <intent-filter>
+					<action
+ 						android:name="android.appwidget.action.APPWIDGET_CONFIGURE"> 						  
+					</action>
+				</intent-filter>
+        	</activity>
+        	<activity android:screenOrientation="portrait" android:name="Info"></activity>
+        	<activity android:screenOrientation="portrait" android:name="PrefActivity"></activity>
+        	<activity android:name="Reports" android:screenOrientation="portrait"></activity>  		  
+        </application> 
+</manifest>

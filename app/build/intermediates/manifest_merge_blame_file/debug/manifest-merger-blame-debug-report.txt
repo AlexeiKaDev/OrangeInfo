@@ -1,0 +1,201 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ak.orangeinfo"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+8-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+9        android:name="android.permission.INTERNET"
+9-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:10:9-51
+10        android:minSdkVersion="14"
+10-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:8:9-35
+11        android:targetSdkVersion="24" />
+11-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:9:9-38
+12
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:11:5-69
+13-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:11:22-66
+14    <uses-permission android:name="android.permission.BIND_ACCESSIBILITY_SERVICE" />
+14-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:12:5-85
+14-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:12:22-82
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:13:5-91
+15-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:13:22-72
+16
+17    <supports-screens
+17-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:6-136
+18        android:anyDensity="true"
+18-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:24-49
+19        android:largeScreens="true"
+19-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:107-134
+20        android:normalScreens="true"
+20-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:78-106
+21        android:smallScreens="true" />
+21-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:50-77
+22
+23    <application
+23-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:15:3-75:23
+24        android:allowBackup="true"
+24-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:16:9-35
+25        android:debuggable="true"
+26        android:enabled="true"
+26-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:20:9-31
+27        android:icon="@drawable/ic_launcher"
+27-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:17:9-45
+28        android:label="@string/app_name"
+28-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:18:9-41
+29        android:testOnly="true"
+30        android:theme="@style/Theme.Orangeinfo" >
+30-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:19:9-48
+31        <activity
+31-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:21:9-28:20
+32            android:name="com.ak.orangeinfo.MainActivity"
+32-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:22:13-41
+33            android:label="@string/app_name"
+33-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:23:13-45
+34            android:screenOrientation="portrait" >
+34-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:23:46-82
+35            <intent-filter>
+35-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:24:13-27:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:25:17-69
+36-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:25:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:26:17-77
+38-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:26:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:10-101
+42            android:name="com.ak.orangeinfo.AbonamentActivity"
+42-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:20-52
+43            android:screenOrientation="portrait" />
+43-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:53-89
+44        <activity
+44-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:10-98
+45            android:name="com.ak.orangeinfo.PrepayActivity"
+45-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:20-49
+46            android:screenOrientation="portrait" />
+46-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:50-86
+47
+48        <receiver
+48-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:10-46:21
+49            android:name="com.ak.orangeinfo.Widget"
+49-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:20-41
+50            android:icon="@drawable/ic_launcher"
+50-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:42-78
+51            android:label="@string/widget" >
+51-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:79-109
+52            <intent-filter>
+52-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:32:14-41:21
+53                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" >
+53-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:33:6-35:15
+53-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:34:8-64
+54                </action>
+55                <action android:name="com.ak.orangeinfo.MyCredit" />
+55-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:6-58
+55-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:14-55
+56                <action android:name="com.ak.orangeinfo.MinuteInfo" />
+56-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:6-60
+56-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:14-57
+57                <action android:name="com.ak.orangeinfo.MyBalance" />
+57-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:6-59
+57-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:14-56
+58                <action android:name="com.ak.orangeinfo.InternetTraffic" />
+58-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:6-65
+58-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:14-62
+59                <action android:name="com.ak.orangeinfo.MyNumber" />
+59-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:6-58
+59-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:14-55
+60            </intent-filter>
+61
+62            <meta-data
+62-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:42:5-45:17
+63                android:name="android.appwidget.provider"
+63-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:43:7-48
+64                android:resource="@xml/widget_metadata" >
+64-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:44:7-46
+65            </meta-data>
+66        </receiver>
+67        <receiver
+67-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:10-62:21
+68            android:name="com.ak.orangeinfo.SmallWidget"
+68-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:20-46
+69            android:icon="@drawable/ic_launcher"
+69-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:47-83
+70            android:label="@string/smallwidget" >
+70-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:84-119
+71            <intent-filter>
+71-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:32:14-41:21
+72                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" >
+72-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:33:6-35:15
+72-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:34:8-64
+73                </action>
+74                <action android:name="com.ak.orangeinfo.MyCredit" />
+74-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:6-58
+74-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:14-55
+75                <action android:name="com.ak.orangeinfo.MinuteInfo" />
+75-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:6-60
+75-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:14-57
+76                <action android:name="com.ak.orangeinfo.MyBalance" />
+76-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:6-59
+76-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:14-56
+77                <action android:name="com.ak.orangeinfo.InternetTraffic" />
+77-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:6-65
+77-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:14-62
+78                <action android:name="com.ak.orangeinfo.MyNumber" />
+78-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:6-58
+78-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:14-55
+79            </intent-filter>
+80
+81            <meta-data
+81-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:42:5-45:17
+82                android:name="android.appwidget.provider"
+82-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:43:7-48
+83                android:resource="@xml/smallwidget_metadata" >
+83-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:44:7-46
+84            </meta-data>
+85        </receiver>
+86
+87        <service android:name="com.ak.orangeinfo.OrangeService" />
+87-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:64:10-58
+87-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:64:19-47
+88
+89        <activity
+89-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:10-71:21
+90            android:name="com.ak.orangeinfo.ConfigWidget"
+90-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:20-47
+91            android:screenOrientation="portrait" >
+91-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:48-84
+92            <intent-filter>
+92-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:66:14-70:21
+93                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" >
+93-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:67:6-69:15
+93-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:68:8-67
+94                </action>
+95            </intent-filter>
+96        </activity>
+97        <activity
+97-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:10-88
+98            android:name="com.ak.orangeinfo.Info"
+98-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:57-76
+99            android:screenOrientation="portrait" />
+99-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:20-56
+100        <activity
+100-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:10-96
+101            android:name="com.ak.orangeinfo.PrefActivity"
+101-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:57-84
+102            android:screenOrientation="portrait" />
+102-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:20-56
+103        <activity
+103-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:10-91
+104            android:name="com.ak.orangeinfo.Reports"
+104-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:20-42
+105            android:screenOrientation="portrait" />
+105-->D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:43-79
+106    </application>
+107
+108</manifest>

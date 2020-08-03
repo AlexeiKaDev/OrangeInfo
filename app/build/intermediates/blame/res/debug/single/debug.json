@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_bottom_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\cab_background_bottom_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\list_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_disabled_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\xml_accessibility_service_config.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_transparent_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ab_background_textured_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\ab_background_textured_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linkedin.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\linkedin.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_disabled_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_disabled_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_texture_tile_orangeinfo.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ab_texture_tile_orangeinfo.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_background_ab_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\spinner_background_ab_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_bottom_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ab_bottom_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_disabled_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_disabled_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu_dropdown_panel_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_texture_tile_orangeinfo.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_texture_tile_orangeinfo.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_transparent_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ab_transparent_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu_dropdown_panel_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\menu_dropdown_panel_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cab_background_top_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\cab_background_top_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_configsmallwidget.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\configsmallwidget.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cab_background_top_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cab_done_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_stacked_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_texture_tile_orangeinfo.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile_orangeinfo.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_disabled_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_secondary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\progress_secondary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_prepay.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\prepay.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttn_background.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\buttn_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selectable_background_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\selectable_background_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_transparent_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_dropdown_panel_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\menu_dropdown_panel_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_top_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_bg_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_cab_done_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\btn_cab_done_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_texture_tile_orangeinfo.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ab_texture_tile_orangeinfo.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\xml_info.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\xml\\info.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_bottom_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_secondary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\list_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_smallwidget.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\smallwidget.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\list_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_spinner_ab_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\spinner_ab_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_primary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cab_background_bottom_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_ab_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\tab_indicator_ab_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_stacked_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ab_stacked_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_bottom_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_primary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\progress_primary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_bg_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\progress_bg_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\xml_smallwidget_metadata.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\xml\\smallwidget_metadata.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_ninepatch_press.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\button_ninepatch_press.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_bottom_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ab_bottom_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\xml\\pref.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_transparent_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ab_transparent_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smallwidget.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\smallwidget.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_primary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\progress_primary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\list_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_cab_done_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\list_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_preview.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\preview.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ab_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\ab_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\xml_widget_metadata.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\xml\\widget_metadata.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_primary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_mytransleft.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\anim\\mytransleft.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_selected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_selected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_cab_done_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\btn_cab_done_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_progress_secondary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progress_bg_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\progress_bg_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_spinner_ab_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progress_horizontal_orangeinfo.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\progress_horizontal_orangeinfo.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_unselected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\list_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ab_stacked_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_spinner_ab_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_unselected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\tab_unselected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_selected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_selected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_spinner_ab_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\spinner_ab_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\anim_mytrans.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\anim\\mytrans.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_focused_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\list_focused_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_top_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\cab_background_top_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\layout_reports.xml.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\layout\\reports.xml"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_progress_bg_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cab_background_bottom_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_unselected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_selected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ab_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\ab_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ab_stacked_solid_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-hdpi\\ab_stacked_solid_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_progress_secondary_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\progress_secondary_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btn_cab_done_default_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\btn_cab_done_default_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu_dropdown_panel_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cab_background_bottom_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\cab_background_bottom_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_selected_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_unselected_pressed_orangeinfo.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable-mdpi\\tab_unselected_pressed_orangeinfo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\OrangeInfo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_ninepatch_back.9.png.flat",
+        "source": "D:\\Projects\\OrangeInfo1\\app\\src\\main\\res\\drawable\\button_ninepatch_back.9.png"
+    }
+]

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent"
+ android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RadioGroup
+                android:id="@+id/smallwidget"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/Orange"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/abonament"
+                    android:textColor="@color/White"
+                    android:textSize="22sp" />
+
+                <RadioButton
+                    android:id="@+id/mynumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:checked="true"
+                    android:text="@string/my_number_text" />
+
+                <RadioButton
+                    android:id="@+id/mycredit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credit_text" />
+
+                <RadioButton
+                    android:id="@+id/minuteinfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_minute_text" />
+
+                <RadioButton
+                    android:id="@+id/balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/balance_text" />
+
+                <RadioButton
+                    android:id="@+id/smsinfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/smsinfo_text" />
+
+                <RadioButton
+                    android:id="@+id/internet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/internet_text" />
+
+                <RadioButton
+                    android:id="@+id/calloperator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/operator_call_text" />
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/Orange"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/prepay"
+                    android:textColor="@color/White"
+                    android:textSize="22sp" />
+
+                <RadioButton
+                    android:id="@+id/mynumber1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/my_number_text" />
+
+                <RadioButton
+                    android:id="@+id/credit1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/credit_text" />
+
+                <RadioButton
+                    android:id="@+id/minuteinfo1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/info_minute_text" />
+
+                <RadioButton
+                    android:id="@+id/expense"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/expense_text" />
+
+                <RadioButton
+                    android:id="@+id/minute_bonus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bonus_minutes_text" />
+
+                <RadioButton
+                    android:id="@+id/activate_bonus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bonus_activate_text" />
+
+                <RadioButton
+                    android:id="@+id/change"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/change_bonus_text" />
+
+                <RadioButton
+                    android:id="@+id/magic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/magic_number_text" />
+
+                <RadioButton
+                    android:id="@+id/love_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/love_number_text" />
+
+                <RadioButton
+                    android:id="@+id/prepay_option"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/prepay_options_text" />
+
+                <RadioButton
+                    android:id="@+id/internet_option"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/internet_options_text" />
+
+                <RadioButton
+                    android:id="@+id/sms_option"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sms_options_text" />
+
+                <RadioButton
+                    android:id="@+id/minutes_options"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/minutes_options_text" />
+
+                <RadioButton
+                    android:id="@+id/rouming_options"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/rouming_options_text" />
+
+                <RadioButton
+                    android:id="@+id/call_even"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/call_even_text" />
+
+                <RadioButton
+                    android:id="@+id/netactivate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/internet_activation_text" />
+
+                <RadioButton
+                    android:id="@+id/prepay_point"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/prepay_points_text" />
+
+                <RadioButton
+                    android:id="@+id/calloperator1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/operator_call_text" />
+
+                <TextView
+                    android:id="@+id/TextView02"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/Orange"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:text="@string/usefulcalls"
+                    android:textColor="@color/White"
+                    android:textSize="22sp" />
+
+                <RadioButton
+                    android:id="@+id/RadioButton05"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/emergency_text" />
+
+                <RadioButton
+                    android:id="@+id/RadioButton04"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/firefighters_text" />
+
+                <RadioButton
+                    android:id="@+id/RadioButton03"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/police_text" />
+
+                <RadioButton
+                    android:id="@+id/RadioButton02"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ambulance_text" />
+
+                <RadioButton
+                    android:id="@+id/RadioButton01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/gas_service_text" />
+            </RadioGroup>
+
+        </LinearLayout>
+    </ScrollView>
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_gravity="bottom|center_vertical|center_horizontal"
+    android:background="@drawable/buttn_background"
+    android:onClick="onClick"
+    android:text="@string/ok"
+    android:textColor="@color/White" >
+
+</Button>
+</LinearLayout>

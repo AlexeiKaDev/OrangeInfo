@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Orange Info</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="send">Send</string>
+    <string name="error_ussd_msg">Erorr, please try later</string>
+    <string name="operator_name">Operator Name:</string>
+    
+    <string name="my_number">*99#</string>
+    <string name="my_number_text">My number</string>
+    
+    <string name="rouming">Is in rouming:</string>
+    <string name="orange">Orange</string>
+    <string name="abonament">Abonament</string>
+    <string name="prepay">Prepay</string>
+    
+    <string name="credit">*133#</string>
+    <string name="credit_text">My credit</string>
+    
+    <string name="info_minute">*133*1#</string>
+    <string name="info_minute_text">Minute info</string>
+    
+    <string name="balance">*133*2#</string>
+    <string name="balance_text">My Balance</string>
+    
+    <string name="smsinfo">*133*3*1#</string>
+    <string name="smsinfo_text">Sms info</string>
+    
+    <string name="internet">*133*3*2#</string>
+    <string name="internet_text">Internet traffic</string>
+    
+    <string name="operator_call">777</string>
+    <string name="operator_call_text">Call operator</string>
+    <string name="emergency">112</string>
+    <string name="emergency_text">Emergency help</string>
+    
+    <string name="firefighters">901</string>
+    <string name="firefighters_text">Firefighters</string>
+    
+    <string name="police">902</string>
+    <string name="police_text">Police</string>
+    
+    <string name="ambulance">903</string>
+    <string name="ambulance_text">Ambulance</string>
+    
+    <string name="gas_service">904</string>
+    <string name="gas_service_text">Gas service</string>
+    <string name="usefulcalls">Useful numbers</string>
+    <string name="optional_codes">Optional codes</string>
+    <string name="more">More</string>
+    
+    <string name="widget">Orange info widget</string>
+    <string name="smallwidget">Small Orange info widget</string>
+    <string name="ok">Save and place</string>
+    
+    <string name="accessibility_service_description">
+        The application allows you to send and read short messages (USSD | MMI)."\n\n"
+		It works with the operator Orange Moldova.
+	</string>
+    <string name="version">Application version - 1.0</string>
+    <string name="autor">Author - Kevshin Alexei</string>
+    <string name="linked">https://www.linkedin.com/in/alexeikevshin</string>
+    <string name="facebook">https://www.facebook.com/AlexeiKevshin</string>
+    <string name="twitter">https://twitter.com/Kusocek_a</string>
+    <string name="google">https://plus.google.com/100548787368400516164/about</string>
+    
+    <string name="mistake">Orange MD is not your mobile operator. \n Come over to Orange!</string>
+    <string name="exit">Exit</string>
+ 
+    
+    <string name="action_allsettings">Main settings</string>
+    <string name="about">About</string>
+    
+    <!-- Активити с отчетами -->
+    
+    <string name="button_continue">Continue</string>
+    
+    <string name="favorite">Favorite number</string>
+    <string name="favorite_text">Define with whom you are talking so much, and with whom you are need a favorite number</string>
+    
+    <string name="change_plan">Do you want to change your plan?</string>
+    <string name="change_plan_text">Here you can check how much you are talking about in a month, and if you want to change your package, the application will tell you which one you can choose</string>
+    
+    <!-- Конец с отчетами -->
+    
+     <!-- Активити Prepay -->
+    
+    <string name="bonus_activate">5544</string>
+    <string name="bonus_activate_text">Activate bonus</string>
+    
+    <string name="change_bonus">*100*2#</string>
+    <string name="change_bonus_text">Change bonus</string>
+    
+    <string name="magic_number">*100*5#</string>
+    <string name="magic_number_text">Magic number</string>
+    
+    <string name="love_number">*100*6#</string>
+    <string name="love_number_text">Love numbers</string>
+    
+    <string name="prepay_options">*100*31#</string>
+    <string name="prepay_options_text">Prepay options</string>
+    
+    <string name="internet_options">*100*32#</string>
+    <string name="internet_options_text">Inernet options</string>
+    
+    <string name="sms_options">*100*33#</string>
+    <string name="sms_options_text">Sms options</string>
+    
+    <string name="minutes_options">*100*34#</string>
+    <string name="minutes_options_text">Minute options</string>
+    
+    <string name="rouming_options">*100*9#</string>
+    <string name="rouming_options_text">Rouming activation</string>
+    
+    <string name="call_even">*100*7#</string>
+    <string name="call_even_text">Call even a month</string>
+    
+    <string name="internet_activation">789</string>
+    <string name="internet_activation_text">Internet activation</string>
+    
+    <string name="prepay_points">200</string>
+    <string name="prepay_points_text">Prepay points</string>
+    
+    <string name="expense">*133*2#</string>
+    <string name="expense_text">Expenses</string>
+    
+    <string name="bonus_minutes">*133*3#</string>
+    <string name="bonus_minutes_text">Bonus minutes</string>
+  
+    <!-- Конец prepay -->
+
+</resources>

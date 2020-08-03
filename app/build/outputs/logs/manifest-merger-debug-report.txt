@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\b8ca514b213a04de367f04d5b1796dfc\appcompat-v7-22.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\981502f1270f48be672541ed69b91ee9\support-v4-22.2.1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:1-76:12
+	package
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:5:31-61
+uses-sdk
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\b8ca514b213a04de367f04d5b1796dfc\appcompat-v7-22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\b8ca514b213a04de367f04d5b1796dfc\appcompat-v7-22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\981502f1270f48be672541ed69b91ee9\support-v4-22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\981502f1270f48be672541ed69b91ee9\support-v4-22.2.1\AndroidManifest.xml:20:5-43
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:7:5-10:54
+	android:targetSdkVersion
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:10:9-51
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:12:5-85
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:12:22-82
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:13:5-91
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:13:22-72
+supports-screens
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:6-136
+	android:largeScreens
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:107-134
+	android:smallScreens
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:50-77
+	android:normalScreens
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:78-106
+	android:anyDensity
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:14:24-49
+application
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:15:3-75:23
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\b8ca514b213a04de367f04d5b1796dfc\appcompat-v7-22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\b8ca514b213a04de367f04d5b1796dfc\appcompat-v7-22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\981502f1270f48be672541ed69b91ee9\support-v4-22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\kusoc\.gradle\caches\transforms-2\files-2.1\981502f1270f48be672541ed69b91ee9\support-v4-22.2.1\AndroidManifest.xml:22:5-20
+	android:enabled
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:20:9-31
+	android:label
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:19:9-48
+activity#com.ak.orangeinfo.MainActivity
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:23:46-82
+	android:label
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.ak.orangeinfo.AbonamentActivity
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:10-101
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:53-89
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:29:20-52
+activity#com.ak.orangeinfo.PrepayActivity
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:10-98
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:50-86
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:30:20-49
+receiver#com.ak.orangeinfo.Widget
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:10-46:21
+	android:label
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:79-109
+	android:icon
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:42-78
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:31:20-41
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:com.ak.orangeinfo.InternetTraffic+action:name:com.ak.orangeinfo.MinuteInfo+action:name:com.ak.orangeinfo.MyBalance+action:name:com.ak.orangeinfo.MyCredit+action:name:com.ak.orangeinfo.MyNumber
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:32:14-41:21
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:33:6-35:15
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:34:8-64
+action#com.ak.orangeinfo.MyCredit
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:6-58
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:36:14-55
+action#com.ak.orangeinfo.MinuteInfo
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:6-60
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:37:14-57
+action#com.ak.orangeinfo.MyBalance
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:6-59
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:38:14-56
+action#com.ak.orangeinfo.InternetTraffic
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:6-65
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:39:14-62
+action#com.ak.orangeinfo.MyNumber
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:6-58
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:40:14-55
+meta-data#android.appwidget.provider
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:42:5-45:17
+	android:resource
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:44:7-46
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:43:7-48
+receiver#com.ak.orangeinfo.SmallWidget
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:10-62:21
+	android:label
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:84-119
+	android:icon
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:47-83
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:47:20-46
+service#com.ak.orangeinfo.OrangeService
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:64:10-58
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:64:19-47
+activity#com.ak.orangeinfo.ConfigWidget
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:10-71:21
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:48-84
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:65:20-47
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:66:14-70:21
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:67:6-69:15
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:68:8-67
+activity#com.ak.orangeinfo.Info
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:10-88
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:20-56
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:72:57-76
+activity#com.ak.orangeinfo.PrefActivity
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:10-96
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:20-56
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:73:57-84
+activity#com.ak.orangeinfo.Reports
+ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:10-91
+	android:screenOrientation
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:43-79
+	android:name
+		ADDED from D:\Projects\OrangeInfo1\app\src\main\AndroidManifest.xml:74:20-42
